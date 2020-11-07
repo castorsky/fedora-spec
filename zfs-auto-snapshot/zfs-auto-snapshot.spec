@@ -9,8 +9,8 @@ Group:		Applications/System
 License:	GPL2
 URL:		https://github.com/zfsonlinux/%{name}
 Source0:	%{url}/archive/upstream/%{version}/%{name}-upstream-%{version}.tar.gz
-Patch0:     0001-Fix-broken-cron-scripts.patch
-Patch1:     0002-Found-a-way-to-exec-the-process-and-yet-have-it-work.patch
+#Patch0:     0001-Fix-broken-cron-scripts.patch
+#Patch1:     0002-Found-a-way-to-exec-the-process-and-yet-have-it-work.patch
 
 #BuildRequires:
 #Requires:
